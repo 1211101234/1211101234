@@ -30,7 +30,7 @@ Full-stack software engineer focused on automation, intelligent workflows, and s
 
 ## Featured Projects
 
-### [JobFlow](https://github.com/1211101234/JobFlow) — AI-Powered Job Application Pipeline
+### [JobFlow](https://github.com/1211101234/JobFlow) — AI-Powered Job Application Pipeline (In Development)
 > *Transforming job hunting into a data-driven, automated process*
 
 An intelligent end-to-end automation system that removes the friction from job searching and application.
