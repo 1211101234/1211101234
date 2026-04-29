@@ -1,102 +1,118 @@
-# 👋 Hi, I'm Zahin
+<div align="center">
 
-## 👨‍💻 Zahin Adri  
-**Full-Stack Software Engineer | AI Systems | Automation**
+# Muhammad Zahin Adri
+### Full-Stack Engineer · AI Systems · Automation
 
-I build **end-to-end systems that solve real problems** — with a focus on automation, intelligent workflows, and scalable web applications.
+*I build end-to-end systems that solve real problems.*
 
-- 🧠 Strong in: Angular, Node.js, RxJS, NgRx, system design  
-- 🤖 Focused on: AI-powered applications & workflow automation  
-- ⚙️ Approach: Clean architecture, modular design, production-ready thinking  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahin-adri-78509a315/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zahinadri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/1211101234)
 
----
-
-## 🚀 Featured Projects
-
-### 🔥 JobFlow — AI-Powered Job Application System  
-An intelligent automation pipeline that transforms job hunting into a data-driven process:
-- Aggregates job listings from multiple platforms  
-- Scores jobs based on relevance  
-- Generates tailored resumes using AI  
-- Streamlines application workflows  
-
-👉 Built as a **modular, scalable system**, not just a script  
+</div>
 
 ---
 
-### 🌿 Mindspace — Privacy-First Anonymous Mental Health Community Platform
+## About
 
-Mindspace is a web-based community platform designed to enable users to express themselves and interact with others **anonymously**, without requiring personal identity or personal data exposure.
+Full-stack software engineer focused on automation, intelligent workflows, and scalable web applications. I design **systems**, not just features — with clean architecture and production-ready thinking at every step.
 
-The core philosophy is to create a safe digital environment where users can communicate freely while prioritizing **privacy, emotional comfort, and psychological safety**.
+**Core stack:**
+`Angular` `Node.js` `RxJS` `NgRx` `Flutter` `Python` `C++`
 
----
-
-## 🔐 Core Principles
-
-- **Anonymity by design** — no mandatory personal identifiers or identity linkage  
-- **Privacy-first architecture** — user interactions are designed to minimize data exposure  
-- **Low-friction communication** — users can join and participate without onboarding barriers  
-- **Psychological safety focus** — system designed to reduce fear of judgment or exposure  
+**Focus areas:**
+- AI-powered application development
+- Workflow automation pipelines
+- Modular frontend/backend architecture
+- System design & scalability
 
 ---
 
-## 🧩 System Features
+## Featured Projects
 
-- Anonymous posting and interaction model  
-- Community-based discussions for peer support  
-- Real-time or near-real-time communication layer (if applicable)  
-- Content handling with basic safety considerations  
-- Optional moderation logic to reduce harmful or abusive content  
+### [JobFlow](https://github.com/1211101234/JobFlow) — AI-Powered Job Application Pipeline
+> *Transforming job hunting into a data-driven, automated process*
 
----
+An intelligent end-to-end automation system that removes the friction from job searching and application.
 
-## 🧠 Design Considerations
+- **Aggregates** job listings across multiple platforms into a unified feed
+- **Scores** and ranks jobs based on personal relevance criteria
+- **Generates** tailored resumes for each role using AI
+- **Streamlines** the full application workflow end-to-end
 
-- Balancing **freedom of expression vs platform safety**  
-- Encouraging openness while preventing misuse  
-- Designing interaction flows that reduce social pressure  
-- Minimizing user friction while maintaining responsible boundaries  
+Built as a modular, scalable pipeline — not just a script.
 
 ---
 
-## ⚙️ Implementation Notes
+### [Mindspace](https://github.com/1211101234/mindspace) — Privacy-First Mental Health Community
+> *A safe space to express freely, without identity exposure*
 
-- Built as a full-stack web application  
-- Focus on modular frontend/backend separation  
-- Designed with extensibility in mind for future safety or community features  
+A full-stack web platform that enables anonymous peer support and community-based discussion, designed from the ground up with privacy and psychological safety as core constraints.
 
----
+**Design principles:**
+- **Anonymity by design** — no mandatory personal identifiers
+- **Privacy-first architecture** — minimal data exposure at every layer
+- **Low-friction participation** — join and engage without barriers
+- **Psychological safety** — interaction flows designed to reduce social pressure
 
-👉 Mindspace is positioned as a **privacy-centered social communication system**, not just a chatbot or discussion forum.
+**System features:**
+- Anonymous posting and interaction model
+- Community-based discussions for peer support
+- Real-time communication layer
+- Content safety and moderation tooling
+- Crisis detection integration
 
----
-
-### ⚙️ PatinaDrive — Classic Car Platform (Frontend Architecture Showcase)
-
-A modern web application built with Angular that showcases a classic car blog platform while demonstrating scalable frontend architecture and state management.
-
-- Built with Angular, NgRx, PrimeNG, and TailwindCSS  
-- Implements structured state management using NgRx (actions, reducers, effects)  
-- Component-driven architecture for maintainability and scalability  
-- Responsive UI with PrimeNG components and Tailwind styling  
-- Demonstrates real-world frontend patterns (data flow, UI state handling, modular design)  
-
-👉 Designed as a **frontend system showcase**, not just a static blog
+Mindspace is a **privacy-centered social platform**, not just a forum or chatbot.
 
 ---
 
-## 🧩 What I Bring
+### [PatinaDrive](https://github.com/1211101234/PatinaDrive) — Classic Car Platform
+> *A frontend architecture showcase built with Angular*
 
-- I design **systems**, not just features  
-- Strong understanding of **frontend + backend integration**  
-- Focus on **scalability, maintainability, and real-world usability**  
-- Comfortable turning ideas into **working products**
+A modern Angular web application built around a classic car blog concept — primarily a demonstration of scalable frontend patterns and state management in a real-world context.
+
+**Technical highlights:**
+- `Angular` + `NgRx` (actions, reducers, effects) + `PrimeNG` + `TailwindCSS`
+- Structured state management with clear unidirectional data flow
+- Component-driven architecture for maintainability and scale
+- Responsive UI with real-world frontend patterns throughout
 
 ---
 
-## 📫 Contact
+### [MIRA Chatbot Engine](https://github.com/1211101234/MIRA-Chatbot-Engine)
+> *NLP-powered chatbot using DistilRoBERTa + LLaMA*
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/zahin-adri-78509a315/  
-- 📧 Email: zahinadri@gmail.com  
-- 📱 Phone: 011-67604954  
+A dual-component chatbot engine combining transformer-based intent classification with a large language model response layer.
+
+---
+
+### [Aliens vs Zombies](https://github.com/1211101234/Aliens-vs-Zombies) — C++ Game
+> *Object-oriented C++ game (2-part project)*
+
+---
+
+## What I Bring
+
+| | |
+|---|---|
+| 🏗️ **Systems thinking** | I design architectures before writing code |
+| 🔗 **Full-stack depth** | Comfortable across frontend, backend, and infrastructure |
+| 🤖 **AI integration** | Experience embedding AI into real production workflows |
+| 🚀 **Delivery focus** | I turn ideas into working, maintainable products |
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| 🔗 LinkedIn | [zahin-adri-78509a315](https://www.linkedin.com/in/zahin-adri-78509a315/) |
+| 📧 Email | zahinadri@gmail.com |
+| 📱 Phone | 011-67604954 |
+| 📍 Location | Cyberjaya, Malaysia |
+
+---
+
+<div align="center">
+<sub>Open to collaboration, freelance, and full-time opportunities.</sub>
+</div>
