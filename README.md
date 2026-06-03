@@ -18,7 +18,7 @@
 Full-stack software engineer focused on automation, intelligent workflows, and scalable web applications. I design **systems**, not just features — with clean architecture and production-ready thinking at every step.
 
 **Core stack:**
-`Angular` `Node.js` `RxJS` `NgRx` `Flutter` `Python` `C++`
+`Angular` `Node.js` `RxJS` `NgRx` `Flutter` `Python` `C++` `Java` `Playwright` `Selenium`
 
 **Focus areas:**
 - AI-powered application development
@@ -29,6 +29,20 @@ Full-stack software engineer focused on automation, intelligent workflows, and s
 ---
 
 ## Featured Projects
+
+### [Winks Automation Demo](https://github.com/1211101234/winks-automation-demo) — Full-Stack Test Automation + Real-Time Reporting
+> *End-to-end automation visibility — from test execution to live dashboard*
+
+A production-grade test automation system combining UI, API, and real-time observability in a single connected pipeline.
+
+- **Dual framework** — Selenium + TestNG (Java) and Playwright (TypeScript) running in parallel
+- **Real-time dashboard** — live pass/fail feed, donut chart, and trend line across multiple runs
+- **Full coverage** — UI flows, login validation, API contract testing, screenshot on failure
+- **Node.js reporting backend** — custom REST API receiving live updates from test execution
+
+Built as a complete demo system — not just test scripts.
+
+---
 
 ### [JobFlow](https://github.com/1211101234/JobFlow) — AI-Powered Job Application Pipeline (In Development)
 > *Transforming job hunting into a data-driven, automated process*
@@ -98,6 +112,7 @@ A dual-component chatbot engine combining transformer-based intent classificatio
 | 🏗️ **Systems thinking** | I design architectures before writing code |
 | 🔗 **Full-stack depth** | Comfortable across frontend, backend, and infrastructure |
 | 🤖 **AI integration** | Experience embedding AI into real production workflows |
+| 🧪 **Automation** | End-to-end test frameworks with real-time observability |
 | 🚀 **Delivery focus** | I turn ideas into working, maintainable products |
 
 ---
